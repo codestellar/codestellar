@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Gaurav Madaan aka codestellar
 - 🏢 I'm Architect - Software Development @ **[Technossus](https://www.technossus.com/)**
 - 🔭 I spent some free time working on some freelance stuff (only for some specific friends) https://chkokko.com/, https://karismadiet.com/, blogging, meetups and teaching 
-- 🌱 I’m currently learning **[SwiftUI](https://github.com/vineetchoudhary/100-days-of-SwiftUI)**
+- 🌱 I’m currently learning **[AWS Cost Management](https://aws.amazon.com/aws-cost-management/)**
 - 💬 Ask me about **.Net Core, Azure, php, rest api, HTML, CSS, Javascript, Angular**
 - 📝 Sometime I write articles on **[codestellar.net](https://codestellar.net)**
 
