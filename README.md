@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Gaurav Madaan aka codestellar
-- 🏢 I'm Head of Engineering at **[niwi.ai](https://niwi.ai)**
-- 🔭 I spent some free time working on some freelance stuff (only for some specific friends) https://chkokko.com/, https://karismadiet.com/, blogging, meetups and teaching 
+- 🏢 I'm Co-founder and Chief Technology Officer at **[niwi.ai](https://niwi.ai)**
+- 🔭 I am working with my team on Prim **[primhub.ai](https://primhub.ai)**, India's first AI powered SaaS platform for nutritionists.
 - 🌱 I’m currently learning **[AWS Cost Management](https://aws.amazon.com/aws-cost-management/)**
 - 💬 Ask me about **.Net Core, Azure, php, rest api, HTML, CSS, Javascript, Angular**
 - 📝 Sometime I write articles on **[blog.codestellar.net](https://blog.codestellar.net)**
